@@ -1,10 +1,10 @@
 body{
 	background: lightblue;
 	text-align: left;
-  border: 60px solid #;
+  border: 60px solid ;
   border-top: 10px;
   /*border-bottom: 0px;*/
-  margin: auto;
+  margin:auto;
 }
 h1{
 	margin-bottom: 5%;
@@ -22,7 +22,7 @@ h2{
 }
 
 p{
-  color: #;
+  
   padding-top: 0%;
   padding-left: 0%;
   padding-right: 0%;
